@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-App desenvolvido seguindo a maratona NLW - RockSeat.
+App desenvolvido seguindo a maratona NLW - RocketSeat.
